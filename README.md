@@ -1,5 +1,4 @@
-# stokProgram
- C#
+# stockProgram
 Project Name: C# Inventory Management System
 
 Description:
