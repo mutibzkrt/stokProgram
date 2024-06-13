@@ -1,0 +1,846 @@
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\ASUS\Desktop\Proje son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\Proje son\csarhap\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\aaa\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (3)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\deneme\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Deneme 2\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 3\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Deneme 4\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Denme5\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (7)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\New folder (8)\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\new9\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\new10\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\denemeee\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör\altay-main - Copy\csarhapc-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\Proje son\hayatg-zel\hayatK-sa-main\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (8)\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (5)\asdfg-main\Proje son bu sefer son\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (3)\2003Proje\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\v1\Yeni klasör (3)\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\ASUS\Desktop\bu gercekten son projem\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\Whatsapp-main\kaderzor-main\yeni4\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (10)\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (7)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.xml
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici2.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.dll
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.xml
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.xml
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.xml
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.xml
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici2.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (12)\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.dll
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.xml
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici2.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Yeni klasör (11)\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici2.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\Dügün\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe.config
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\CokEglencez.pdb
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.IO.Packaging.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\System.Management.Automation.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.dll
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\bin\Debug\zxing.presentation.xml
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.AssemblyReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.ResolveComReference.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.AnaForm.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Guncelleyici2.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.GirisFormu.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Properties.Resources.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.SatinAl.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.UyeOl.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.Yardım.resources
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.GenerateResource.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.csproj.CopyComplete
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.exe
+C:\Users\muhammet.bozkurt\Desktop\Stok Takip Programı\HATASIZ\Son-main\Soncsharp-main\son madde\Yeni11\CokEglencez\CokEglencez\obj\Debug\CokEglencez.pdb

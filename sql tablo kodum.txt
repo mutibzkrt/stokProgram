@@ -1,0 +1,311 @@
+​
+Siz aktif olan sql kodum
+​
+CREATE TABLE Kullanicilar (
+    KullaniciID INT PRIMARY KEY IDENTITY,
+    KullaniciAdi VARCHAR(50) NOT NULL,
+    Sifre VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Fihrist (
+    FihristID INT PRIMARY KEY IDENTITY,
+    SirketIsmi VARCHAR(100) NOT NULL,
+    CalisanIsmi VARCHAR(100) NOT NULL,
+    MailAdresi VARCHAR(100),
+    TelefonNumarasi1 VARCHAR(20) NOT NULL,
+    TelefonNumarasi2 VARCHAR(20)
+);
+
+CREATE TABLE Urunler (
+    UrunID INT PRIMARY KEY IDENTITY,
+    UrunAdi VARCHAR(100) NOT NULL,
+    UrunKodu VARCHAR(50) NOT NULL,
+    Kategori VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE UrunGiris (
+    GirisID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    Tarih DATE,
+    Notlar TEXT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE UrunCikis (
+    CikisID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    CikisTarihi DATE,
+    Notlar TEXT,
+    Kategori VARCHAR(100) NOT NULL,
+    CikisNedeni TEXT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE StokDurumu (
+    StokID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE Posetler (
+    PosetID INT PRIMARY KEY IDENTITY,
+    PosetAdi VARCHAR(100) NOT NULL,
+    PosetKodu VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE PosetIcerikleri (
+    IcerikID INT PRIMARY KEY IDENTITY,
+    PosetID INT,
+    UrunID INT,
+    Miktar FLOAT,
+    FOREIGN KEY (PosetID) REFERENCES Posetler(PosetID),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE Alislar (
+    AlisID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    BirimFiyat FLOAT,
+    AlisTarihi DATE,
+    Firma VARCHAR(100),
+    Miktar FLOAT,
+    ToplamFiyat FLOAT,
+    ParaBirimi VARCHAR(50),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE SeriNumaralari (
+    SeriNoID INT PRIMARY KEY IDENTITY,
+    GirisID INT,
+    CikisID INT,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID),
+    FOREIGN KEY (CikisID) REFERENCES UrunCikis(CikisID)
+);
+
+CREATE TABLE BirlesikUrunler (
+    BirlesikUrunID INT PRIMARY KEY IDENTITY,
+    BirlesikUrunAdi VARCHAR(100) NOT NULL, -- Birleşik ürüne verilen isim
+    BirlesikUrunKodu VARCHAR(50) NOT NULL, -- Birleşik ürünün kodu
+);
+
+CREATE TABLE BirlesikUrunSeriNumaralari (
+    SeriNoID INT PRIMARY KEY IDENTITY,
+    BirlesikUrunID INT,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (BirlesikUrunID) REFERENCES BirlesikUrunler(BirlesikUrunID),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE YeniTablo (
+    YeniTabloID INT PRIMARY KEY IDENTITY,
+    YeniTabloAdi VARCHAR(100) NOT NULL,
+    YeniTabloKodu VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE YeniTabloSeriNumaralari (
+    SeriNoID INT PRIMARY KEY IDENTITY,
+    YeniTabloID INT,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (YeniTabloID) REFERENCES YeniTablo(YeniTabloID),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+
+CREATE TABLE YariMamulIsEmirleri (
+    YariMamulIsEmriID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    BaslangicTarihi DATE,
+    BitisTarihi DATE,
+    Notlar TEXT,
+    Revizyon VARCHAR(50),
+    IsEmriNo VARCHAR(50), 
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+CREATE TABLE MamulIsEmirleri (
+    MamulIsEmriID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    BaslangicTarihi DATE,
+    BitisTarihi DATE,
+    Notlar TEXT,
+    Revizyon VARCHAR(50),
+    IsEmriNo VARCHAR(50), 
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+-------------------------------------------------v2------------------------------------------------------------------------- CIKACAĞI ZAMAN KULANCAZ..muhasaebe kısmıda olacak asagı kodda.
+CREATE TABLE Kullanicilar (
+    KullaniciID INT PRIMARY KEY IDENTITY,
+    KullaniciAdi VARCHAR(50) NOT NULL,
+    Sifre VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Fihrist (
+    FihristID INT PRIMARY KEY IDENTITY,
+    SirketIsmi VARCHAR(100) NOT NULL,
+    CalisanIsmi VARCHAR(100) NOT NULL,
+    MailAdresi VARCHAR(100),
+    TelefonNumarasi1 VARCHAR(20) NOT NULL,
+    TelefonNumarasi2 VARCHAR(20)
+);
+
+CREATE TABLE Urunler (
+    UrunID INT PRIMARY KEY IDENTITY,
+    UrunAdi VARCHAR(100) NOT NULL,
+    UrunKodu VARCHAR(50) NOT NULL,
+    Kategori VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE UrunGiris (
+    GirisID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    Tarih DATE,
+    Notlar TEXT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE UrunCikis (
+    CikisID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    CikisTarihi DATE,
+    Notlar TEXT,
+    Kategori VARCHAR(100) NOT NULL,
+    CikisNedeni TEXT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE StokDurumu (
+    StokID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE Posetler (
+    PosetID INT PRIMARY KEY IDENTITY,
+    PosetAdi VARCHAR(100) NOT NULL,
+    PosetKodu VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE PosetIcerikleri (
+    IcerikID INT PRIMARY KEY IDENTITY,
+    PosetID INT,
+    UrunID INT,
+    Miktar FLOAT,
+    FOREIGN KEY (PosetID) REFERENCES Posetler(PosetID),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE Alislar (
+    AlisID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    BirimFiyat FLOAT,
+    AlisTarihi DATE,
+    Firma VARCHAR(100),
+    Miktar FLOAT,
+    ToplamFiyat FLOAT,
+    ParaBirimi VARCHAR(50),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+CREATE TABLE Odemeler (
+    OdemeID INT PRIMARY KEY IDENTITY,
+    AlisID INT, -- Alış işlemine yapılan ödeme için referans
+    Miktar FLOAT NOT NULL, -- Ödenen miktar
+    OdemeTarihi DATE NOT NULL, -- Ödeme tarihi
+    ParaBirimi VARCHAR(50) NOT NULL, -- Ödeme yapılan para birimi
+    FOREIGN KEY (AlisID) REFERENCES Alislar(AlisID) -- Alışlar tablosuna referans
+);
+
+
+CREATE TABLE SeriNumaralari (
+    SeriNoID INT PRIMARY KEY IDENTITY,
+    GirisID INT,
+    CikisID INT,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID),
+    FOREIGN KEY (CikisID) REFERENCES UrunCikis(CikisID)
+);
+
+CREATE TABLE BirlesikUrunler (
+    BirlesikUrunID INT PRIMARY KEY IDENTITY,
+    BirlesikUrunAdi VARCHAR(100) NOT NULL, -- Birleşik ürüne verilen isim
+    BirlesikUrunKodu VARCHAR(50) NOT NULL, -- Birleşik ürünün kodu
+);
+
+CREATE TABLE BirlesikUrunSeriNumaralari (
+    SeriNoID INT PRIMARY KEY IDENTITY,
+    BirlesikUrunID INT,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (BirlesikUrunID) REFERENCES BirlesikUrunler(BirlesikUrunID),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE YeniTablo (
+    YeniTabloID INT PRIMARY KEY IDENTITY,
+    YeniTabloAdi VARCHAR(100) NOT NULL,
+    YeniTabloKodu VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE YeniTabloSeriNumaralari (
+    SeriNoID INT PRIMARY KEY IDENTITY,
+    YeniTabloID INT,
+    UrunID INT,
+    LotNumarasi VARCHAR(50),
+    SeriNo VARCHAR(100),
+    FOREIGN KEY (YeniTabloID) REFERENCES YeniTablo(YeniTabloID),
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+
+CREATE TABLE YariMamulIsEmirleri (
+    YariMamulIsEmriID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    BaslangicTarihi DATE,
+    BitisTarihi DATE,
+    Notlar TEXT,
+    Revizyon VARCHAR(50),
+    IsEmriNo VARCHAR(50), 
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
+CREATE TABLE MamulIsEmirleri (
+    MamulIsEmriID INT PRIMARY KEY IDENTITY,
+    UrunID INT,
+    Miktar FLOAT,
+    BaslangicTarihi DATE,
+    BitisTarihi DATE,
+    Notlar TEXT,
+    Revizyon VARCHAR(50),
+    IsEmriNo VARCHAR(50), 
+    FOREIGN KEY (UrunID) REFERENCES Urunler(UrunID)
+);
